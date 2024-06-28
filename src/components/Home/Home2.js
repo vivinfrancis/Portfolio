@@ -22,8 +22,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Highly skilled and experienced <i><b className="purple"> Full Stack Developer with 3 years </b></i> of hands-on expertise in designing, developing, and implementing complex web applications. Proficient in both front-end and back-end technologies, adept at translating client requirements into scalable, reliable software solutions. Proven track record of collaborating with cross-functional teams to deliver projects on time and within budget.
-            </p>
+    Highly skilled and experienced <i><b className="purple">Full Stack Developer with 1.5 years</b></i> of hands-on expertise in designing, developing, and implementing complex web applications. Proficient in both front-end and back-end technologies, adept at translating client requirements into scalable, reliable software solutions. Innovative IT professional with expertise in JavaScript, ReactJS, React Native, HTML, CSS, MySQL, and Redux. Passionate about problem-solving and tech advancements, I excel in developing loan management applications and eCommerce websites. Known for translating complex technical concepts into strategic actions, I enhance operational efficiency and user satisfaction. Proven track record in delivering scalable, efficient solutions. Skilled in project management and team collaboration, I drive business success through cutting-edge technology.
+</p>
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
@@ -43,7 +44,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Aravindan29"
+                  href="https://github.com/vivinfrancis/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -53,7 +54,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/aravindhan-v-222035212/"
+                  href="https://www.linkedin.com/in/alankara-vivin-francis-software-engineer"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
