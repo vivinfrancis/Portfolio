@@ -15,16 +15,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Aravindhan</h3>
+          <h3>Designed and Developed by Alankara Vivin</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Aravindhan</h3>
+          <h3>Copyright © {year} Alankara Vivin</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Aravindan29"
+                href="https://github.com/vivinfrancis/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/aravindhan-v-222035212/"
+                href="https://www.linkedin.com/in/alankara-vivin-francis-software-engineer"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
